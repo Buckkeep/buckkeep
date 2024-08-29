@@ -1,12 +1,18 @@
-# React + Vite
+# Buckkeep
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+London. Languages. Literature.
 
-Currently, two official plugins are available:
+Books I like:
+- Lord of the Rings by JRR Tolkien
+- The Realm of the Elderlings by Robin Hobb
+- While You Sleep by Stephanie Merritt 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Languages:
+- English (Native)
+- German (C2/Native)
+- Spanish (B2)
 
-
-Credits:
-Castle Icon PNG Designed By haris99 from https://pngtree.com/freepng/classic-castle-icon-design-template-vector-isolated_5974727.html
+Tech:
+- iOS development (Swift, SwiftUI)
+- Front End (React, Bootstrap)
+- Back End (Python)
