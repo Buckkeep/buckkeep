@@ -1,0 +1,24 @@
+/* :root {
+  --primary-color: #fff;
+  --background-color: #292930;
+  /* --secondary-background-color: #323338; */
+  /* --primary-font: "Karla", sans-serif;
+  --secondary-font: "Merriweather Sans", sans-serif;
+  --highlight: #ff6600;
+}
+
+body * {
+    background-color: var(--background-color);
+    color: var(--primary-color); */
+    /* Don't allow user to scroll L-R to see images that push off screen: */
+    /* overflow-x: hidden;
+  }
+
+  h2 {
+    color: var(--highlight);
+  }
+
+.footer {
+  text-align: center;
+  color: var(--highlight);
+}  */
