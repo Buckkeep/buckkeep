@@ -4,6 +4,7 @@ import Projects from "./components/Projects";
 import About from "./components/About";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
+import Tech from "./components/Tech";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <NavSection />
       <main>
         <Intro />
+        <Tech />
         <Projects />
         <About />
         <Contact />
