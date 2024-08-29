@@ -13,7 +13,7 @@ function Contact() {
     <>
       <section id="contact" className="bg-light my-5 ">
         <div className="container-lg">
-          <h2>Contact Me</h2>
+          <h2 className="display-5">Contact Me</h2>
           <p className="lead text-muted">Get in touch!</p>
         </div>
 
